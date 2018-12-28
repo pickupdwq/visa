@@ -42,8 +42,8 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'https://pickupdwq.github.io/visa/dist/static/',
-    assetsPublicPath: 'https://pickupdwq.github.io/visa/dist/static/',
+    assetsSubDirectory: 'static',
+    assetsPublicPath: './',
 
     /**
      * Source Maps
