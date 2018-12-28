@@ -1,7 +1,7 @@
 <template>
   <div class="home-wrap">
     <div class="header radius relative overflow-h">
-      <img src="/static/header.jpeg" class="w100 block">
+      <img src="../../../static/header.jpeg" class="w100 block">
       <!-- <div class="mask"></div> -->
       <p class="title center white">什马签证</p>
     </div>
