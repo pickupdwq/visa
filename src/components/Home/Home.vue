@@ -32,31 +32,31 @@ export default {
         {
           name: "日本签证(极简)",
           price: "￥280起",
-          src: "/static/tokyo.jpg",
+          src: "../../../static/tokyo.jpg",
           id: "111"
         },
         {
           name: "日本签证(极简)",
           price: "￥280起",
-          src: "/static/tokyo.jpg",
+          src: "../../../static/tokyo.jpg",
           id: "111"
         },
         {
           name: "日本签证(极简)",
           price: "￥280起",
-          src: "/static/tokyo.jpg",
+          src: "../../../static/tokyo.jpg",
           id: "111"
         },
         {
           name: "日本签证(极简)",
           price: "￥280起",
-          src: "/static/tokyo.jpg",
+          src: "../../../static/tokyo.jpg",
           id: "111"
         },
         {
           name: "日本签证(极简)",
           price: "￥280起",
-          src: "/static/tokyo.jpg",
+          src: "../../../static/tokyo.jpg",
           id: "111"
         }
       ]
