@@ -10,7 +10,7 @@
       <p class="center">热门签证</p>
       <div class="list" v-for="(item,index) in list">
         <div class="radius relative overflow-h" @click="goDetail(item.id)">
-          <img :src="item.src" class="w100 block">
+          <img src="../../../static/tokyo.jpg" class="w100 block">
           <div class="mask"></div>
           <div class="info-wrap">
             <p class="white">{{item.name}}</p>
